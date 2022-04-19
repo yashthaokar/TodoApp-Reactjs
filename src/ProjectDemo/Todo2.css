@@ -1,0 +1,9 @@
+.th{
+    border: 2px solid red;
+}
+.tr{
+    border: 3px solid darkgreen;
+}
+.table{
+    border: 10px solid yellow;
+}
